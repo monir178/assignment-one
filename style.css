@@ -73,6 +73,7 @@ h3 {
 
 .paragraph {
     color: gray;
+    text-align: center;
 }
 
 .money-container {
@@ -100,8 +101,20 @@ li {
 .money-container input[type="number"] {
     margin: 0;
     padding: 20px 35px 20px 35px;
-    color: rgb(168, 167, 167);
+    color: rgba(255, 255, 255, 0.781);
     border: #000000;
     font-size: 18px;
 
+}
+
+.container {
+    display: flex;
+}
+
+.third-banner {
+    padding-top: 20px;
+}
+
+.boxes {
+    padding-top: 40px;
 }
