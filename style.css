@@ -131,18 +131,22 @@ li:hover {
 
 .box {
     display: flex;
+    height: 400px;
+    padding-left: 200px;
 
 
 }
 
 .box-one {
-    width: 30%;
+    width: 25%;
     background-color: rgba(0, 255, 255, 0.596);
     box-shadow: gray;
-    border-radius: 5px;
-    padding-left: 20px;
+    border-radius: 8px;
+    padding-left: 25px;
     margin-left: 30px;
     padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 40px;
 }
 
 #food {
