@@ -4,12 +4,17 @@ body {
     padding: 0;
 }
 
+section {
+    width: 100%;
+    height: 40em;
+}
+
 .top-banner {
     background-image: url(images/top-banner.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    width: 100%;
-    height: 40em;
+    margin: 0;
+
 }
 
 #heading {
@@ -20,6 +25,7 @@ body {
     padding-bottom: 0;
     margin-bottom: 0;
     text-shadow: yellow;
+    margin: 0;
 }
 
 #heading-2 {
@@ -38,8 +44,8 @@ body {
 }
 
 .link-button {
-    background-color: rgba(255, 102, 0, 0.712);
-    border-radius: 40px;
+    background-color: rgba(255, 30, 0, 0.61);
+    border-radius: 5px;
     text-decoration: none;
     padding: 15px 40px;
     color: antiquewhite;
