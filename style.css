@@ -135,7 +135,6 @@ li:hover {
 
 }
 
-
 .box-one {
     width: 30%;
     background-color: rgba(0, 255, 255, 0.596);
@@ -144,4 +143,16 @@ li:hover {
     padding-left: 20px;
     margin-left: 30px;
     padding-top: 50px;
+}
+
+#food {
+    background-color: rgba(199, 239, 241, 0.486);
+}
+
+#shelter {
+    background-color: rgba(243, 210, 200, 0.651);
+}
+
+#education {
+    background-color: rgba(248, 237, 187, 0.76);
 }
