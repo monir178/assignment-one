@@ -162,6 +162,42 @@ li:hover {
     background-color: rgba(248, 237, 187, 0.76);
 }
 
+.four-heading {
+    font-size: 55px;
+    font-weight: bolder;
+    padding-left: 170x;
+}
+
+.experiences-part {
+    display: flex;
+    margin-left: 5%;
+    height: 750px;
+    padding-top: 80px;
+    padding-left: 20px;
+}
+
+.experiences {
+    width: 35%;
+    padding-left: 7%;
+}
+
+.experiences-paragraph {
+    text-align: left;
+    margin-top: 0;
+    padding-bottom: 50px;
+    padding-top: 2px;
+}
+
+.experiences img {
+    height: 65%;
+    width: 120%;
+    border-radius: 5px;
+    padding-top: 90px;
+    margin-top: 0;
+    padding-right: 350px;
+    margin-left: 0;
+}
+
 footer {
     background-color: rgb(9, 9, 10);
     height: 250px;
